@@ -1,5 +1,5 @@
 outs:
-- md5: d3b07384d113edec49eaa6238ad5ff00
-  size: 4
+- md5: 64d1d45a742208fa07f70c6a599b329e
+  size: 12
   hash: md5
-  path: foo
+  path: foo.yaml
